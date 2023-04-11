@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\BTT2(CR10S)\\Marlin-2.0.x\\Marlin-2.0.x"
+		},
+		{
+			"path": "SKR-mini-E3-master\\firmware\\V2.0\\Marlin-2.0.7.2-SKR-mini-E3-V2.0"
+		},
+		{
+			"path": "..\\BTT3(CR10S-Ghetto)"
+		}
+	],
+	"settings": {}
+}
